@@ -7,7 +7,6 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
 - [Frontend Mentor - Typemaster pre-launch landing page solution](#frontend-mentor---typemaster-pre-launch-landing-page-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
@@ -17,12 +16,6 @@ This is a solution to the [Typemaster pre-launch landing page challenge on Front
 
 
 ## Overview
-
-### The challenge
-
-Users should be able to:
-
--
 
 ### Screenshot
 
